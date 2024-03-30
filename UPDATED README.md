@@ -22,7 +22,7 @@ These are accessed and installed through the sidebar on the left of Visual Studi
 
 **NOTE: When running the code it may say that you need a Python Interpreter! Make sure you have one installed which can be solved by simply downloading Python on your computer.** https://www.python.org/downloads/
 
-## Manipulating the arrays: 
+## Manipulating the code: 
 
 All the code is in one Python text file. The algorithms and the GUI elements (widgets) are carefully separated from one another.
 
