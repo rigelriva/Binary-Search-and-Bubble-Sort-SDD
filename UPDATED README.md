@@ -6,7 +6,7 @@ This Python project involves a Binary Search algorithm where it will find an inp
 
 You can download this by downloading the zip file by pressing the **GREEN "CODE"** button and pressing **"Download ZIP"** or  you click **"binaryandbubble.py"** and download the raw file via the right-hand side download button
 
-After downloading binaryandbubble.py, you would need to FIRSTLY download [Visual Studio Code](https://code.visualstudio.com/Download) as well as these CRUCIAL extensions for it to run:
+After downloading binaryandbubble.py, you would need to download **[Visual Studio Code](https://code.visualstudio.com/Download)** as well as these CRUCIAL extensions for it to run:
 * **Python**  v2024.2.1
 * **Pylance** v2024.3.2
 * **Python Debugger** v2024.2.0
@@ -16,7 +16,7 @@ This provides a better view of the code within Visual Studio:
 
 These are accessed and installed through the sidebar on the left of Visual Studio and going to 'Extensions' (or Ctrl + Shift + X)
 
-**NOTE: When running the code it may say that you need a Python Interpreter! Make sure you have one installed which can be solved by simply downloading Python on your computer.** https://www.python.org/downloads/
+**NOTE: When running the code it may say that you need a Python Interpreter! Make sure you have one installed which can be solved by simply downloading [Python](https://www.python.org/downloads/) on your computer.** 
 
 ## Manipulating the code and arrays: 
 
