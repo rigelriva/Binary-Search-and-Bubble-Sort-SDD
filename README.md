@@ -27,3 +27,6 @@ All the code is in one Python text file. The algorithms and the GUI elements (wi
 If you wish to edit the arrays that are used for Binary Search and Bubble Sort, just look for "simarray1" or "simarray2" and be free to change it up however you want. Be mindful that simarray1 is the Binary Search array and NEEDS to be in ascending order for it to work as well as how both arrays need to have integers for it to work properly.
 
 The UI at the moment isn't great nor is the window when you click run but this project aims to show the overall function of Binary Search and Bubble Sort.
+
+### Any errors when running:
+If it doesn't work after pressing run, press the '>' next to the run button and use "Python Debugger: Debug Python File" (Extension is needed)
