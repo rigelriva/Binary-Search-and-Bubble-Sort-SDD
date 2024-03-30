@@ -18,7 +18,7 @@ These are accessed and installed through the sidebar on the left of Visual Studi
 
 **NOTE: When running the code it may say that you need a Python Interpreter! Make sure you have one installed which can be solved by simply downloading [Python](https://www.python.org/downloads/) on your computer.** 
 
-Make sure you click 'trust this author' to run it since it opening the project will cause it to go into restricted mode automatically. If done right, the code should appear as a pop-up window after pressing run.
+Make sure you click 'trust this author' to run it since opening the project will cause it to go into restricted mode automatically. If done right, the code should appear as a pop-up window after pressing run.
 
 ## Manipulating the code and arrays: 
 
