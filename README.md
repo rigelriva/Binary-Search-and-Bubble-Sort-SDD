@@ -29,4 +29,4 @@ If you wish to edit the arrays that are used for Binary Search and Bubble Sort, 
 The UI at the moment isn't great nor is the window when you click run but this project aims to show the overall function of Binary Search and Bubble Sort.
 
 ### Any errors when running:
-If it doesn't work after pressing run, press the '>' next to the run button and use "Python Debugger: Debug Python File" (Extension is needed)
+If it doesn't work after pressing run, press the '>' next to the run button and use "Python Debugger: Debug Python File" (Python Debugger extension is needed).
