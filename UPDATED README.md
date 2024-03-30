@@ -4,9 +4,9 @@ This Python project involves a Binary Search algorithm where it will find an inp
 
 ## How to install and run code: 
 
-You can download this through downloading the zip file by pressing the **GREEN "CODE"** button and pressing **"Download ZIP"** or  you click **"binaryandbubble.py"** and download the raw file via the right-hand side download button
+You can download this by downloading the zip file by pressing the **GREEN "CODE"** button and pressing **"Download ZIP"** or  you click **"binaryandbubble.py"** and download the raw file via the right-hand side download button
 
-After downloading binaryandbubble.py, you would need to FIRSTLY download **VISUAL STUDIO COD**E as well as these CRUCIAL extensions for it to run:
+After downloading binaryandbubble.py, you would need to FIRSTLY download [Visual Studio Code]([https://pages.github.com/](https://code.visualstudio.com/Download)) as well as these CRUCIAL extensions for it to run:
 * **Python**  v2024.2.1
 * **Pylance** v2024.3.2
 * **Python Debugger** v2024.2.0
@@ -22,6 +22,6 @@ These are accessed and installed through the sidebar on the left of Visual Studi
 
 All the code is in one Python text file. The algorithms and the GUI elements (widgets) are carefully separated from one another.
 
-If you wish to edit the arrays that are used for Binary Search and Bubble Sort, just look for "simarray1" or "simarray2" and be free to change it up however you want. Be mindful that simarray1 is the Binary Search array and NEEDS to be in ascending order for it to work as well as how both arrays need to have integers for it to work properly.
+If you wish to edit the arrays that are used for Binary Search and Bubble Sort, just look for _"simarray1"_ or _"simarray2"_ and be free to change it up however you want. Be mindful that _simarray1_ is the Binary Search array and NEEDS to be in ascending order for it to work as well as how both arrays need to have integers for it to work properly.
 
 The UI at the moment isn't great nor is the window when you click run but this project aims to show the overall function of Binary Search and Bubble Sort
