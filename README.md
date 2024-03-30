@@ -5,7 +5,9 @@ This Python project involves a Binary Search algorithm where it will find an inp
 ## How to install and run code: 
 
 You can download this through downloading the zip file by pressing the **GREEN "CODE"** button and pressing **"Download ZIP" **
+
 OR
+
 You click **"binaryandbubble.py"** and download the raw file via the right-hand side download button
 
 After downloading binaryandbubble.py, you would need to FIRSTLY download **VISUAL STUDIO COD**E as well as these CRUCIAL extensions for it to run:
