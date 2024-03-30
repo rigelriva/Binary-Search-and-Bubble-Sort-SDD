@@ -10,6 +10,7 @@ After downloading binaryandbubble.py, you would need to FIRSTLY download VISUAL 
 * Python  v2024.2.1
 * Pylance v2024.3.2
 * Python Debugger v2024.2.0
+  
 These are accessed and installed through the sidebar on the left of Visual Studio and going to 'Extensions' (or Ctrl + Shift + X)
 
 This provides a better view of the code within Visual Studio:
