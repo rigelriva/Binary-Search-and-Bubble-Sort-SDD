@@ -11,10 +11,12 @@ After downloading binaryandbubble.py, you would need to FIRSTLY download VISUAL 
 * Pylance v2024.3.2
 * Python Debugger v2024.2.0
   
-These are accessed and installed through the sidebar on the left of Visual Studio and going to 'Extensions' (or Ctrl + Shift + X)
-
 This provides a better view of the code within Visual Studio:
 * Prettier - Code formatter v10.4.0
+
+These are accessed and installed through the sidebar on the left of Visual Studio and going to 'Extensions' (or Ctrl + Shift + X)
+**NOTE: When running the code it may say that you need a Python Interpreter! Make sure you have one installed which can be solved by simply downloading Python on your computer. https://www.python.org/downloads/
+
 
 All the code is in one Python text file. The algorithms and the GUI elements (widgets) are carefully separated from one another.
 
