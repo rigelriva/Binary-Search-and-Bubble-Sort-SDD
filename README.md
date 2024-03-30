@@ -2,14 +2,14 @@
 
 This Python project involves a Binary Search algorithm where it will find an input number within the array as well as a Bubble Sort algorithm where an array is given that's unsorted and from the click of a button, the array will become sorted, a shuffle button has also been added to randomise the order of the array.
 
-You can download this through downloading the zip file by pressing the GREEN "CODE" button and pressing "Download ZIP" 
+You can download this through downloading the zip file by pressing the **GREEN "CODE"** button and pressing **"Download ZIP" **
 OR
-You click "binaryandbubble.py" and download the raw file via the right-hand side download button
+You click **"binaryandbubble.py"** and download the raw file via the right-hand side download button
 
-After downloading binaryandbubble.py, you would need to FIRSTLY download VISUAL STUDIO CODE as well as these CRUCIAL extensions for it to run:
-* Python  v2024.2.1
-* Pylance v2024.3.2
-* Python Debugger v2024.2.0
+After downloading binaryandbubble.py, you would need to FIRSTLY download **VISUAL STUDIO COD**E as well as these CRUCIAL extensions for it to run:
+* **Python**  v2024.2.1
+* **Pylance** v2024.3.2
+* **Python Debugger** v2024.2.0
   
 This provides a better view of the code within Visual Studio:
 * Prettier - Code formatter v10.4.0
