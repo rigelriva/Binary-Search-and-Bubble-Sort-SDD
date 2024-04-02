@@ -1,6 +1,6 @@
 # Binary-Search-and-Bubble-Sort-SDD - Rigel Rivamonte
 
-This Python project involves a Binary Search algorithm where it will find an input number within the array as well as a Bubble Sort algorithm where an array is given that's unsorted and from the click of a button, the array will become sorted, a shuffle button has also been added to randomise the order of the array.
+This Python project involves a Binary Search algorithm where it will find an input number within an array and includes a Bubble Sort algorithm that sorts the unsorted array with the click of a button, a shuffle button has also been added to randomise the order of the array.
 
 ## How to install and run code: 
 
@@ -24,10 +24,9 @@ Make sure you click 'trust this author' to run it since opening the project will
 
 All the code is in one Python text file. The algorithms and the GUI elements (widgets) are carefully separated from one another.
 
-If you wish to edit the arrays that are used for Binary Search and Bubble Sort, just look for "simarray1" or "simarray2" and be free to change it up however you want. 
+If you wish to edit the array used, just look for "simarray1" and be free to change it up however you want.
 
-* Be mindful that simarray1 is the Binary Search array and NEEDS to be in ascending order for it to work.
-* Both the Binary Search and Bubble Sort arrays need to contain integers or floats for them to work properly.
+* Be sure to only use numbers and not strings and DO NOT include special characters (such as $ or *)
 
 The UI at the moment isn't great nor is the window when you click run but this project aims to show the overall function of Binary Search and Bubble Sort.
 
