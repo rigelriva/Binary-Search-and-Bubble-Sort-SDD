@@ -27,12 +27,14 @@ lb2 = Label(page2, text="You ready to search and sort?", bg='white', font=style1
 lb2.pack(pady=20, padx=50)
 
 
+
 # Navigation Buttons (Back and Forth Navigation)
 btn1 = Button(page1, text="Start", command=lambda: page2.tkraise(), font=style2)  # takes user to binary search page
 btn1.pack()
 
 btn2 = Button(page2, text="Main Menu", command=lambda: page1.tkraise(), font=style3)  # takes user back to home screen
 btn2.pack()
+
 
 
 # Algorithm Page ------------------------------------------------------------------
@@ -48,6 +50,8 @@ simarray1 = [42, 32, 23, 12, 19, 54]  # array itself, will initially be unsorted
 arraytext = Label(page2, text=(simarray1), bg='white', font=style1)  # Visually showing the array
 arraytext.pack(pady=20, padx=50)
 
+question = Label(page2, text="Input a number to search:", bg='white', font=style3)  # text
+question.pack()
 
 input_var = StringVar()  # StringVar() acts as a mediator between the GUI and the Python code
 midpoint_value = StringVar()
@@ -133,7 +137,7 @@ btn5.pack()
 
 # creation of the window when pressing run
 page1.tkraise()
-window.geometry("550x450")
+window.geometry("600x500")
 window.title("Binary Search and Bubble Sort")
 window.config(background="white")
 
